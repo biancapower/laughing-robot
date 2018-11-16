@@ -2,3 +2,5 @@
 puts something here =)
 
 Here's a thing
+
+1. Research on fork, branch and merge on your free time <3
